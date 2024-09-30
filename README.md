@@ -1,32 +1,26 @@
-# Insurance-cost-analysis
+# [Practice Project - Data Analytics for Insurance Cost Data Set](https://www.ibm.com)
 
+This repository contains the project completed as part of the "[Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python)" course, which is a requirement for the [IBM](https://www.ibm.com) Data Science Certificate program.
 
-## Overview
-In this project, you will perform analytics operations on an insurance database using various parameters. This project is part of the **Data Analysis with Python** course, which is part of the **IBM Data Science Certificate**.
+## Project Overview
+The project involves performing analytical operations on an insurance database that includes various parameters to understand insurance costs better.
 
-## Contents
-- **Dataset**: Contains the insurance cost data set used for analysis.
-- **Code**: Python scripts and notebooks for performing data analysis.
-- **README**: Documentation for understanding the project structure and setup.
+## Objectives:
+- **Perform Data Analytics** on the insurance dataset.
+- **Clean and Preprocess Data**: Handle missing values and convert data types.
+- **Visualize Data**: Uncover insights about insurance charges based on different factors.
+- **Document Findings**: Share the analysis and insights through a well-documented Jupyter Notebook.
 
-## Getting Started
-To launch the lab environment:
-1. Check the box indicating "I agree to use this app responsibly."
-2. Click on the "Launch App" button. This will open the lab environment in a new browser tab.
+## Structure of the Repository:
+1. `Medical_insurance.csv/` - Contains the insurance dataset used for the analysis.
+2. `Insurance_cost_Analysis.ipynb/` - Includes the Jupyter Notebook with code and analysis.
+3. `README.md` - Overview of the project.
 
-This lab uses [IBM Skills Network Labs (SN Labs)](https://www.ibm.com/training/skills-network) for a virtual lab experience. Your Username and Email will be passed to Skills Network Labs for communication purposes, in accordance with [IBM Skills Network Privacy policy](https://www.ibm.com/privacy).
-
-If you need to download or print the lab instructions, click [HERE](link_to_lab_instructions) to open the lab instructions in a new tab.
-
-In case you are unable to launch the lab, click [HERE](link_to_lab_direct) to load it directly in your browser.
-
-## Course Information
-This course uses a third-party app, **Practice Project - Data Analytics for Insurance Cost Data Set**, to enhance your learning experience. The app will reference basic information like your name, email, and Coursera ID.
-
-## Important Links
-- [IBM Skills Network](https://www.ibm.com/training/skills-network)
+## Links:
 - [IBM Data Science Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
-- [Coursera Honor Code](https://www.coursera.org/about/honor-code)
+- [Data Analysis with Python Course](https://www.coursera.org/learn/data-analysis-with-python)
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
+
+
